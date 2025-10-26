@@ -1,8 +1,11 @@
 Invisible Mannequin AI Agent 👗🤖
+
 An AI-powered agent that transforms model photoshoot images into professional e-commerce product photos featuring outfits on invisible mannequins. Built as a Google Gemini Gem using the Gemini 2.5 Flash Image generation model.
 
 📋 Overview
+
 This AI agent helps fashion brands and designers convert their model photoshoot images into clean, professional product photography without the need for expensive post-production editing. Simply upload a photo of a model wearing an outfit, select your preferred view (front or back), and let the AI generate a polished invisible mannequin version.
+
 ✨ Features
 
 Image Transformation: Converts model photos to invisible mannequin product shots
@@ -26,6 +29,7 @@ Platform: Google Gemini Gems
 Prompt Structure: POML (Prompt Orchestration Markup Language)
 
 📝 System Prompt
+
 The agent uses a structured POML-based system prompt that includes:
 
 Role definition as a fashion photography AI specialist
@@ -35,6 +39,7 @@ Interactive examples demonstrating the conversation flow
 Output format specifications for e-commerce standards
 
 View the complete system prompt in the system-prompt.poml file.
+
 🎯 Use Cases
 
 Fashion E-commerce: Create consistent product photography for online stores
@@ -44,6 +49,7 @@ Visual Consistency: Maintain uniform product presentation across collections
 Rapid Prototyping: Generate product mockups for design presentations
 
 🔧 Setup & Deployment
+
 Prerequisites
 
 Google Gemini account with access to Gems
@@ -72,6 +78,7 @@ Complex patterns or highly detailed garments may require iteration
 Generated images are based on AI interpretation and may need minor adjustments
 
 🤝 Contributing
+
 Contributions are welcome! If you have suggestions for improving the system prompt or adding new features:
 
 Fork the repository
@@ -81,9 +88,13 @@ Push to the branch (git push origin feature/improvement)
 Open a Pull Request
 
 📄 License
+
 This project is open source and available under the MIT License.
+
 👨‍💻 Author
-Created for fashion brands working with budget constraints who need professional product photography.
+
+Created by Bril for fashion brands working with budget constraints who need professional product photography.
+
 🙏 Acknowledgments
 
 Google Gemini team for the powerful image generation capabilities
